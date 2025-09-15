@@ -14,17 +14,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=lskeey&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" 
     alt="GitHub Stats" 
-    width="46.1%" 
+    width="50%" 
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lskeey&theme=react&hide_border=true&background=0D1117&ring=00F5D4&stroke=00F5D4&fire=9AE549&currStreakLabel=00F5D4" 
-    alt="GitHub Streak" 
-    width="49%" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lskeey&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5D4&layout=compact&langs_count=8" alt="Top Languages" width="33%" />
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=lskeey&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=9AE549&area_color=00F5D4&height=280" 
     alt="Activity Graph" 
-    width="95.6%" 
+    width="95%" 
   />
   <br></br>
 </div>
