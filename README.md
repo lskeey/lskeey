@@ -9,24 +9,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div align="center">
-  <p align="start">GitHub Analytics Dashboard</p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lskeey&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" 
-    alt="GitHub Stats" 
-    width="50%" 
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lskeey&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5D4&layout=compact&langs_count=8" alt="Top Languages" width="33%" />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lskeey&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=9AE549&area_color=00F5D4&height=280" 
-    alt="Activity Graph" 
-    width="95%" 
-  />
-  <br></br>
-</div>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <p>Here's a list of my tech stack and skills:</p>
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
