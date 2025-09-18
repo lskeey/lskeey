@@ -1,10 +1,7 @@
 <p align="start">Hello there 👋,</p>
 <p align="start">I am a fresh graduated computer science student at Pertamina University, passionate about exploring the realms of coding, machine learning, and building robust applications.</p>
 <div align="center"> 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=lskeey&color=00F5D4&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20work-success?style=flat-square" alt="Status" />
-  </p>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-success?style=flat-square" alt="Status" />
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
